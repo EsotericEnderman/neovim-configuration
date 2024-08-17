@@ -75,3 +75,6 @@ if has("autocmd")
     \| exe "normal! g'\"" | endif
 endif
 
+let g:NERDTreeDirArrowExpandable="+"
+let g:NERDTreeDirArrowCollapsible="-"
+
