@@ -78,3 +78,5 @@ endif
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="-"
 
+autocmd VimEnter * NERDTreeFocus
+
