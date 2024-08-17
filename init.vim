@@ -37,6 +37,13 @@ Plug 'preservim/nerdcommenter'
 Plug 'mhinz/vim-startify'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'vim-airline/vim-airline'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
+Plug 'ap/vim-css-color'
+Plug 'rafi/awesome-vim-colorschemes'
+Plug 'ryanoasis/vim-devicons'
+Plug 'tc50cal/vim-terminal'
+Plug 'terryma/vim-multiple-cursors'
 
 call plug#end()
 
