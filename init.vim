@@ -36,6 +36,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'preservim/nerdcommenter'
 Plug 'mhinz/vim-startify'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
