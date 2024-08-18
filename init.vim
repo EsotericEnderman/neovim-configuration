@@ -44,6 +44,7 @@ Plug 'rafi/awesome-vim-colorschemes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tc50cal/vim-terminal'
 Plug 'terryma/vim-multiple-cursors'
+Plug 'preservim/tagbar'
 
 call plug#end()
 
