@@ -23,6 +23,7 @@ set ttyfast                 " Speed up scrolling in Vim
 " set noswapfile            " disable creating swap file
 " set backupdir=~/.cache/vim " Directory to store backup files.
 set smarttab
+set encoding=UTF-8
 
 call plug#begin()
 
